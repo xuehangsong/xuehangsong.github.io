@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "Xuehang Song"
 author_profile: true
 redirect_from: 
   - /about/

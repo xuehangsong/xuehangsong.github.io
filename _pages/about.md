@@ -14,7 +14,7 @@ Hello, this is Xuehang, an Earth Scientist at [Pacific Northwest National Labora
 Most of my research work focus on developing our understanding of biogeochemical reactions, energy, and mass transfer in subsurface system. I am especially interested in novel model and data integration method to improve subsurface characterization, from which we will be able to predict, assess and ultimately design and operate environmental processes. Examples of my previous and onging research topics are:  
 - Quantify long-term groundwater recharge in piedmont aggraded valley plain and median plain of the North China Plain (Wuhan University)
 - Develop data assimilation methods to improve saturated-unsaturated flow modeling (Wuhan University)
-- Develop bayesian inversion methods for delineating facies distribution using data assimilation and indicator geostatistics (Florida State University)
+- Develop Bayesian inversion methods for delineating facies distribution using data assimilation and indicator geostatistics (Florida State University)
 - How dam operations control temperature dynamics and biogeochemical fluxes in the river corridor aquifer (PNNL)
 - How river bathymetry, riverbed sediments, subsurface geological units, river stage fluctuations, channel morphology impact the residence time, biogeochemical reactions of hydrologic exchange flows between the river and river corridor aquifer (PNNL)
 - Support on decision making on nuclear waste treatment in [Hanford Site](https://www.hanford.gov/) (PNNL)

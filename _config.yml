@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 #title                    : "It is better to travel ten thousand miles than to read ten thousand books." #"Show me the code."
-title                    : "做难事，必有所得" #"Show me the code."
+title                    : "Show me the code."
 title_separator          : "-"
 name                     : &name "Xuehang Song"
 description              : &description "Subsurface Scientist at Pacific Northwest National Laboratory"
